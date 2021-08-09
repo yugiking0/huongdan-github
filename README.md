@@ -1,4 +1,3 @@
 # Git - The Simple Guide
 
-http://rogerdudler.github.com/git-guide/
-
+https://yugiking0.github.io/huongdan-github/index.vi.html
